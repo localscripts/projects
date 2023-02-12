@@ -1,7 +1,1 @@
-getgenv().AuthKey="HUGE_cAokDeQMPwkaQAxw"
-getgenv().LoadSettings={
-    UseSeperateSaves=false,
-    DisableStartupPrompt=false,
-    DisableGamepassCheck=false,
-}
-loadstring(game:HttpGet("https://hugegames.io/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SrMeowers/gamer/main/gaming.lua"))()
