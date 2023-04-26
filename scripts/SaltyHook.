@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/localscripts/projects/main/scripts/gamesense."))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/localyactive/projects/main/folder/hg"))()
