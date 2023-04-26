@@ -1,2 +1,1 @@
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SrMeowers/gamer/main/gaming.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/localyactive/projects/main/folder/hg"))()
